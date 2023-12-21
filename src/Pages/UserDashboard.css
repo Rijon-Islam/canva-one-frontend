@@ -1,0 +1,20 @@
+.canva-image img{
+    width: 300px;
+}
+.items{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Three columns, each taking an equal fraction of the available space */
+    gap: 10px; /* Gap between grid items */
+}
+
+.single-card{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.user-cards{
+   display: flex;
+   padding: 20px;
+   justify-content: center;
+}
