@@ -1,0 +1,12 @@
+.icon-img{
+    display: flex;
+    justify-content: center;
+}
+.single-card{
+    width: 150px;
+}
+
+.single-card p{
+    display: flex;
+    justify-content: center;
+}

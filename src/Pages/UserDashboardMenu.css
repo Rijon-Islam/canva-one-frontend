@@ -1,0 +1,22 @@
+.user-cards img {
+    width: 30px;
+    }
+
+
+  .icon-img{
+    display: flex;
+    justify-content: center;
+}
+
+.single-card{
+    width: 250px;
+}
+
+
+
+.single-card p{
+    display: flex;
+    justify-content: center;
+ 
+
+}
